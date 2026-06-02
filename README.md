@@ -22,6 +22,10 @@ The network consists of:
 
 Each VLAN is configured with its own subnet and default gateway.
 
+## Network Topology
+
+![Cafe Network](topology.png)
+
 ## Technologies Used
 
 - Cisco Packet Tracer
